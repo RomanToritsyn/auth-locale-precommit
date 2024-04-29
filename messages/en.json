@@ -1,0 +1,39 @@
+{
+  "HomePage": {
+    "aboutUs": "About us",
+    "privacyPolicy": "Privacy policy",
+    "signIn": "Sign in"
+  },
+  "SideBar": {
+    "home": "Home page",
+    "dashboard": "Dashboard",
+    "files": "Files",
+    "referenceCollections": "Reference collections",
+    "templates": "Templates",
+    "aiChat": "Ai Chat",
+    "support": "Support",
+    "openSideBar": "Open sidebar",
+    "closeSidebar": "Close sidebar"
+  },
+  "MainHeader": {
+    "upgradePlan": "Upgrade plan",
+    "personalSettings": "Profile settings",
+    "signOut": "Sign Out",
+    "viewNotifications": "View notifications",
+    "openUserMenu": "Open user menu",
+    "logout": "Logout"
+  },
+  "LocaleSwitcher": {
+    "locale": "{locale, select, uk {\uD83C\uDDFA\uD83C\uDDE6 Ukrainian} en {🇺🇸 English} other {Unknown}}"
+  },
+  "SignInPage": {
+    "signIntoAccount": "Sign in to your account",
+    "email": "Email address",
+    "password": "Password",
+    "forgotPassword": "Forgot password?",
+    "signIn": "Sign in",
+    "continueWith": "Or continue with",
+    "dontHaveAccount": "Don't have an account?",
+    "registration": "Registration"
+  }
+}
